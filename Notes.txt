@@ -1,0 +1,44 @@
+ToDos
+
+1. Building the Project
+    -Create the folder
+    -add files
+    -connect files
+
+2. Navbar
+    -5 links
+    -bar underneath indicating location
+
+3. About page
+    -images
+    -split column layout
+    -content
+    - facebook/linkedIn profile link
+
+4. Coursework page
+    -Course Name and Institution
+        -what the course was about and what I learned...
+        -Project/Lab and what that was about
+        -images
+        -facebook/linkedIn profile link
+
+5. Work Experience
+    -ECS
+        -Logo and what I did
+    -Harris County Flood Control
+        -Logo and what I did 
+        -images
+    - facebook/linkedIn profile link
+
+6. Skills 
+    -List of Skills
+    -images relating to skills or how I am compitant in them
+    -facebook/linkedIn profile link
+
+7. Contact me
+    -Text box that allows a visitor input
+        -name field
+        -message
+        -submit button
+    -Sends email to me after submission is sent...make sure I cant get spammed or hacked
+    -facebook/linkedIn profile link
