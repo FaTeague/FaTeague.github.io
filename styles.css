@@ -14,14 +14,17 @@ body {
 }
 
 .header {
-height: 100%;
-text-transform: uppercase;
-font-size: 1.5em;
-margin-left: 15px;
-color: rgba(24, 84, 133, 0.849);
+    height: 100%;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    margin-left: 15px;
+    color: rgba(24, 84, 133, 0.849);
 }
 
-
+.container{
+    position: fixed;
+    z-index: 2; 
+}
 .content{
     z-index: 1;
     display: flex;
