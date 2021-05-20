@@ -133,19 +133,50 @@ body {
     color: rgba(24, 84, 133, 0.849);
 }
 
-.course-images-wrapper{ 
+.course-images-content-wrapper{ 
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    height: auto;
+    width: 50%;
+    left: 3%;
+    
+}   
+
+.course-images-story-map{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    width: 100%;
+    align-items: center;
+    padding-bottom: 2%;
+    padding-left: 3%;
+}
+
+.course-images-wrapper{
     display: grid;
     grid-template-columns: 1fr 1fr;
     position: relative;
-    width: 50%;
+    width: 100%;
     left: 5%;
     border: solid transparent;
-}   
+}
 
 .course-images{
     display: flex;
+    padding: 5%;
+    justify-content: center;
     border: 1px solid transparent;
     transition: border 0.5s;
+}
+
+.course-images-ppt{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    height: auto;
+    width: 100%;
+    left: 13%;
 }
     
 .course-images img, iframe{
